@@ -113,7 +113,7 @@ body.page-template-page-fullsingle-split {
   -webkit-animation: fadein 2s;
           animation: fadein 2s; }
   body.page-template-page-fullsingle-split p {
-    color: #848d96; }
+    color: #84968d; }
 
 .fs-split {
   width: 100vw;
@@ -191,9 +191,9 @@ body.page-template-page-fullsingle-split {
     .split-bio {
       padding: 20px 0; } }
   .split-bio p {
-    color: #848d96; }
+    color: #84968d; }
   .split-bio a {
-    color: #848d96;
+    color: #84968d;
     -webkit-transition-duration: 0.5s;
             transition-duration: 0.5s;
     border-bottom: 1px dotted #848d96; }
